@@ -1,0 +1,311 @@
+[21:57:40] [WARNING] mysql_connect: no password specified
+[22:01:28] [WARNING] mysql_connect: no password specified
+[22:05:38] [WARNING] mysql_connect: no password specified
+[22:05:49] [WARNING] mysql_connect: no password specified
+[22:07:50] [WARNING] mysql_connect: no password specified
+[22:09:50] [WARNING] mysql_connect: no password specified
+[22:14:06] [WARNING] mysql_connect: no password specified
+[22:19:09] [WARNING] mysql_connect: no password specified
+[22:22:47] [WARNING] mysql_connect: no password specified
+[15:35:08] [WARNING] mysql_connect: no password specified
+[16:21:05] [WARNING] mysql_connect: no password specified
+[16:41:36] [WARNING] mysql_connect: no password specified
+[20:46:46] [WARNING] mysql_connect: no password specified
+[21:22:28] [WARNING] mysql_connect: no password specified
+[21:23:18] [WARNING] mysql_connect: no password specified
+[21:28:08] [WARNING] mysql_connect: no password specified
+[21:30:45] [WARNING] mysql_connect: no password specified
+[22:33:28] [WARNING] mysql_connect: no password specified
+[22:35:55] [WARNING] mysql_connect: no password specified
+[22:37:56] [WARNING] mysql_connect: no password specified
+[22:39:04] [WARNING] mysql_connect: no password specified
+[22:43:25] [WARNING] mysql_connect: no password specified
+[22:45:12] [WARNING] mysql_connect: no password specified
+[22:48:46] [WARNING] mysql_connect: no password specified
+[22:49:23] [WARNING] mysql_connect: no password specified
+[22:51:43] [WARNING] mysql_connect: no password specified
+[22:53:30] [WARNING] mysql_connect: no password specified
+[22:54:27] [WARNING] mysql_connect: no password specified
+[23:25:32] [WARNING] mysql_connect: no password specified
+[23:34:27] [WARNING] mysql_connect: no password specified
+[23:37:21] [WARNING] mysql_connect: no password specified
+[23:37:21] [ERROR] cache_get_value_name: field 'Nombre' not found
+[23:37:21] [ERROR] cache_get_value_name: field 'Estado' not found
+[23:37:21] [ERROR] cache_get_value_name_float: field 'SalidaX' not found
+[23:37:21] [ERROR] cache_get_value_name_float: field 'SalidaY' not found
+[23:37:21] [ERROR] cache_get_value_name_float: field 'SalidaZ' not found
+[23:39:14] [WARNING] mysql_connect: no password specified
+[23:39:14] [ERROR] cache_get_value_name_float: field 'salidaX' not found
+[23:39:14] [ERROR] cache_get_value_name_float: field 'salidaY' not found
+[23:39:14] [ERROR] cache_get_value_name_float: field 'salidaZ' not found
+[23:40:56] [WARNING] mysql_connect: no password specified
+[23:43:24] [WARNING] mysql_connect: no password specified
+[23:44:51] [WARNING] mysql_connect: no password specified
+[23:46:40] [WARNING] mysql_connect: no password specified
+[23:49:32] [WARNING] mysql_connect: no password specified
+[23:50:06] [WARNING] mysql_connect: no password specified
+[23:51:32] [WARNING] mysql_connect: no password specified
+[23:51:55] [WARNING] mysql_connect: no password specified
+[23:52:18] [WARNING] mysql_connect: no password specified
+[23:52:47] [WARNING] mysql_connect: no password specified
+[23:53:43] [WARNING] mysql_connect: no password specified
+[23:54:49] [WARNING] mysql_connect: no password specified
+[23:55:05] [WARNING] mysql_connect: no password specified
+[23:55:21] [WARNING] mysql_connect: no password specified
+[23:55:35] [WARNING] mysql_connect: no password specified
+[23:55:54] [WARNING] mysql_connect: no password specified
+[23:56:01] [WARNING] mysql_connect: no password specified
+[23:56:19] [WARNING] mysql_connect: no password specified
+[23:56:25] [WARNING] mysql_connect: no password specified
+[23:56:32] [WARNING] mysql_connect: no password specified
+[23:56:37] [WARNING] mysql_connect: no password specified
+[23:57:03] [WARNING] mysql_connect: no password specified
+[23:58:19] [WARNING] mysql_connect: no password specified
+[23:58:45] [WARNING] mysql_connect: no password specified
+[00:02:08] [WARNING] mysql_connect: no password specified
+[00:05:49] [WARNING] mysql_connect: no password specified
+[00:06:30] [WARNING] mysql_connect: no password specified
+[00:09:55] [WARNING] mysql_connect: no password specified
+[00:11:17] [WARNING] mysql_connect: no password specified
+[21:38:59] [WARNING] mysql_connect: no password specified
+[21:39:01] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:39:03] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:39:05] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:39:07] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[13:28:04] [WARNING] mysql_connect: no password specified
+[13:28:06] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[13:28:08] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[13:28:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[13:28:12] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[13:28:34] [WARNING] mysql_connect: no password specified
+[13:28:36] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[13:28:38] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[13:28:40] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[13:28:50] [WARNING] mysql_connect: no password specified
+[13:42:04] [WARNING] mysql_connect: no password specified
+[13:45:50] [WARNING] mysql_connect: no password specified
+[13:46:37] [WARNING] mysql_connect: no password specified
+[13:55:35] [WARNING] mysql_connect: no password specified
+[13:58:10] [WARNING] mysql_connect: no password specified
+[14:00:24] [WARNING] mysql_connect: no password specified
+[14:03:12] [WARNING] mysql_connect: no password specified
+[14:19:31] [WARNING] mysql_connect: no password specified
+[14:27:33] [WARNING] mysql_connect: no password specified
+[14:30:59] [WARNING] mysql_connect: no password specified
+[14:36:39] [WARNING] mysql_connect: no password specified
+[14:44:06] [WARNING] mysql_connect: no password specified
+[14:45:07] [WARNING] mysql_connect: no password specified
+[14:48:54] [WARNING] mysql_connect: no password specified
+[14:56:07] [WARNING] mysql_connect: no password specified
+[15:09:01] [WARNING] mysql_connect: no password specified
+[15:11:23] [WARNING] mysql_connect: no password specified
+[15:18:03] [WARNING] mysql_connect: no password specified
+[15:20:59] [ERROR] mysql_format: destination size '70' is too small
+[15:20:59] [ERROR] mysql_format: destination size '70' is too small
+[15:20:59] [ERROR] error #1065 while executing query "": Query was empty
+[15:21:06] [ERROR] mysql_format: destination size '70' is too small
+[15:21:06] [ERROR] mysql_format: destination size '70' is too small
+[15:21:06] [ERROR] error #1065 while executing query "": Query was empty
+[15:22:12] [WARNING] mysql_connect: no password specified
+[15:23:25] [ERROR] error #1054 while executing query "UPDATE `teams` SET `killstotales` = killstotales+1 WHERE `id` = 6 LIMIT 1": Unknown column 'killstotales' in 'field list'
+[15:23:25] [ERROR] error #1054 while executing query "UPDATE `log_user_team` SET `kills` = kills+1, `score` = score+1 WHERE `user_id` = 3 AND `team_id` = 1 LIMIT 1": Unknown column 'score' in 'field list'
+[15:26:14] [ERROR] error #1054 while executing query "UPDATE `teams` SET `killstotales` = killstotales+1 WHERE `id` = 7 LIMIT 1": Unknown column 'killstotales' in 'field list'
+[15:26:14] [ERROR] error #1054 while executing query "UPDATE `log_user_team` SET `kills` = kills+1, `score` = score+1 WHERE `user_id` = 3 AND `team_id` = 1 LIMIT 1": Unknown column 'score' in 'field list'
+[15:26:23] [ERROR] error #1054 while executing query "UPDATE `teams` SET `killstotales` = killstotales+1 WHERE `id` = 8 LIMIT 1": Unknown column 'killstotales' in 'field list'
+[15:26:23] [ERROR] error #1054 while executing query "UPDATE `log_user_team` SET `kills` = kills+1, `score` = score+1 WHERE `user_id` = 3 AND `team_id` = 1 LIMIT 1": Unknown column 'score' in 'field list'
+[15:26:32] [ERROR] error #1054 while executing query "UPDATE `teams` SET `killstotales` = killstotales+1 WHERE `id` = 9 LIMIT 1": Unknown column 'killstotales' in 'field list'
+[15:26:32] [ERROR] error #1054 while executing query "UPDATE `log_user_team` SET `kills` = kills+1, `score` = score+1 WHERE `user_id` = 3 AND `team_id` = 1 LIMIT 1": Unknown column 'score' in 'field list'
+[15:32:50] [WARNING] mysql_connect: no password specified
+[15:35:35] [WARNING] mysql_connect: no password specified
+[15:39:27] [ERROR] error #1054 while executing query "UPDATE `log_user_team` SET `kills` = kills+1, `Score` = score+1 WHERE `user_id` = 3 AND `team_id` = 1 LIMIT 1": Unknown column 'Score' in 'field list'
+[15:39:45] [ERROR] error #1054 while executing query "UPDATE `log_user_team` SET `kills` = kills+1, `Score` = score+1 WHERE `user_id` = 3 AND `team_id` = 1 LIMIT 1": Unknown column 'Score' in 'field list'
+[15:42:57] [WARNING] mysql_connect: no password specified
+[15:47:50] [WARNING] mysql_connect: no password specified
+[15:54:13] [WARNING] mysql_connect: no password specified
+[15:59:35] [WARNING] mysql_connect: no password specified
+[16:13:33] [WARNING] mysql_connect: no password specified
+[16:15:20] [WARNING] mysql_connect: no password specified
+[16:17:57] [WARNING] mysql_connect: no password specified
+[16:23:47] [WARNING] mysql_connect: no password specified
+[16:25:09] [WARNING] mysql_connect: no password specified
+[16:26:36] [WARNING] mysql_connect: no password specified
+[16:33:33] [WARNING] mysql_connect: no password specified
+[16:35:13] [WARNING] mysql_connect: no password specified
+[16:36:41] [WARNING] mysql_connect: no password specified
+[16:59:06] [WARNING] mysql_connect: no password specified
+[17:06:15] [WARNING] mysql_connect: no password specified
+[17:25:12] [WARNING] mysql_connect: no password specified
+[17:38:31] [WARNING] mysql_connect: no password specified
+[17:41:03] [WARNING] mysql_connect: no password specified
+[17:50:57] [WARNING] mysql_connect: no password specified
+[18:03:06] [WARNING] mysql_connect: no password specified
+[18:06:03] [WARNING] mysql_connect: no password specified
+[18:09:39] [WARNING] mysql_connect: no password specified
+[18:15:56] [WARNING] mysql_connect: no password specified
+[18:19:24] [WARNING] mysql_connect: no password specified
+[18:20:55] [WARNING] mysql_connect: no password specified
+[18:23:53] [WARNING] mysql_connect: no password specified
+[18:25:48] [WARNING] mysql_connect: no password specified
+[18:28:09] [WARNING] mysql_connect: no password specified
+[18:29:27] [WARNING] mysql_connect: no password specified
+[18:30:59] [WARNING] mysql_connect: no password specified
+[18:32:19] [WARNING] mysql_connect: no password specified
+[18:33:27] [WARNING] mysql_connect: no password specified
+[18:34:30] [WARNING] mysql_connect: no password specified
+[18:35:58] [WARNING] mysql_connect: no password specified
+[18:36:38] [WARNING] mysql_connect: no password specified
+[18:38:15] [WARNING] mysql_connect: no password specified
+[18:39:29] [WARNING] mysql_connect: no password specified
+[18:42:48] [WARNING] mysql_connect: no password specified
+[18:43:04] [WARNING] mysql_connect: no password specified
+[18:44:59] [WARNING] mysql_connect: no password specified
+[18:47:16] [WARNING] mysql_connect: no password specified
+[18:49:46] [WARNING] mysql_connect: no password specified
+[18:56:58] [WARNING] mysql_connect: no password specified
+[18:59:46] [WARNING] mysql_connect: no password specified
+[19:03:12] [WARNING] mysql_connect: no password specified
+[19:08:34] [WARNING] mysql_connect: no password specified
+[19:08:52] [WARNING] mysql_connect: no password specified
+[21:16:53] [WARNING] mysql_connect: no password specified
+[22:07:08] [WARNING] mysql_connect: no password specified
+[22:10:35] [WARNING] mysql_connect: no password specified
+[22:13:53] [WARNING] mysql_connect: no password specified
+[22:14:39] [WARNING] mysql_connect: no password specified
+[22:23:54] [WARNING] mysql_connect: no password specified
+[22:28:02] [WARNING] mysql_connect: no password specified
+[22:34:12] [WARNING] mysql_connect: no password specified
+[22:38:24] [WARNING] mysql_connect: no password specified
+[23:16:45] [WARNING] mysql_connect: no password specified
+[17:33:22] [WARNING] mysql_connect: no password specified
+[12:46:20] [WARNING] mysql_connect: no password specified
+[12:46:39] [WARNING] mysql_connect: no password specified
+[12:46:44] [WARNING] mysql_connect: no password specified
+[12:57:08] [WARNING] mysql_connect: no password specified
+[16:39:09] [WARNING] mysql_connect: no password specified
+[17:12:38] [WARNING] mysql_connect: no password specified
+[17:37:02] [WARNING] mysql_connect: no password specified
+[17:53:02] [WARNING] mysql_connect: no password specified
+[20:43:09] [WARNING] mysql_connect: no password specified
+[21:40:01] [WARNING] mysql_connect: no password specified
+[22:20:55] [WARNING] mysql_connect: no password specified
+[23:19:37] [WARNING] mysql_connect: no password specified
+[00:10:49] [ERROR] error #2013 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Lost connection to MySQL server during query
+[00:10:52] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:10:54] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:10:56] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:10:58] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:00] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:02] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:04] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:06] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:08] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:10] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:12] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:14] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:16] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:18] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:20] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:22] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:24] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:27] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:29] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:31] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:33] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:35] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:37] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:39] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:41] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:43] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:45] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:47] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:49] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:51] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:53] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:55] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:57] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:11:59] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:01] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:03] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:05] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:07] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:09] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:11] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:13] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:15] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:17] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:19] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:21] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:23] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:25] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:27] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:29] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:31] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:33] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:35] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:37] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:39] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:41] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:43] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:45] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:47] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:50] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:52] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:54] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:56] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:12:58] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:00] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:02] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:04] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:06] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:08] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:10] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:12] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:14] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:16] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:18] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:20] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:22] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:24] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:26] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:28] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:30] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:32] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:34] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:36] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:38] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:40] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:42] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:44] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:46] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:48] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:50] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:52] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:54] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:56] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:13:58] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:00] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:03] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:05] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:07] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:09] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:11] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:13] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:15] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:17] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:19] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:21] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:23] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:25] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:27] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:29] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:31] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[00:14:33] [ERROR] error #2002 while executing query "SELECT * FROM `teams` where `estado`='1' ORDER BY `KillsTotal` DESC": Can't connect to MySQL server on '127.0.0.1' (10061)
+[03:50:13] [WARNING] mysql_connect: no password specified
+[03:52:32] [WARNING] mysql_connect: no password specified
+[23:25:13] [WARNING] mysql_connect: no password specified
+[01:16:14] [WARNING] mysql_connect: no password specified
+[22:56:20] [WARNING] mysql_connect: no password specified
+[18:10:54] [WARNING] mysql_connect: no password specified
+[18:16:08] [WARNING] mysql_connect: no password specified
+[18:53:56] [WARNING] mysql_connect: no password specified
+[01:03:20] [WARNING] mysql_connect: no password specified
